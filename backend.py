@@ -15,7 +15,7 @@ print("Modules Loaded Successfully!!")
 
 
 # Step 4: Model creation
-GOOGLE_API_KEY = "API-KEY"
+GOOGLE_API_KEY = "AQ.Ab8RN6IZjQxp1Vqw8wzVIimfRQQcOVEydy3ts0vCMaR9vZFkbA"
 GROQ_API_KEY = "API-KEY"
 
 gemini_llm = ChatGoogleGenerativeAI(
